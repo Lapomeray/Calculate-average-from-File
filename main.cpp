@@ -3,10 +3,9 @@
 
 /* Brandon Lapomeray
  *
- * Write a C++ program that will ask the user for a file name.
+ * A C++ program that will ask the user for a file name.
  * Contained in this file is a series of integers separated by white space.
- * Read in the numbers, displaying them on the screen, adding them up and
- * then calculating their average.
+ * Read in the numbers, displaying them on the screen, adding them up and then calculating their average.
  * Please remember that you will have to create the input file and
  * it is easiest to read it if you use its entire path name, i.e., "a:\\input.txt".
  *
